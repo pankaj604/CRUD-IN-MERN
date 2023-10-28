@@ -56,7 +56,7 @@ const Home = () => {
   return (
     <>
       <div>
-        <h1>Bank Account App</h1>
+        <h1>Bank Account App by Pankaj Kewat</h1>
         <div>
           <h2>Add/Edit Bank Account</h2>
           <input
